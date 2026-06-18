@@ -61,7 +61,7 @@ body {
   border: none;
   border-radius: 50px;
   outline: none;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .mobile-navbar input::placeholder {
@@ -84,7 +84,7 @@ ul {
 }
 
 .navbar li a {
-  font-size: 25px;
+  font-size: 15px;
   color: #fff;
   padding: 5px 10px;
   text-decoration: none;
@@ -93,14 +93,14 @@ ul {
 }
 
 .navbar .search-city {
-  width: 25vw;
-  height: 5.75vh;
-  font-size: 18.75px;
+  width: 15vw;
+  height: 3.75vh;
+  font-size: 13.75px;
 }
 
 .search-city {
   letter-spacing: 0.50px;
-  padding-left: 20px;
+  padding-left: 10px;
   background: rgba(0, 0, 0, 0.50);
   border: none;
   color: #fff;
@@ -115,7 +115,7 @@ ul {
 }
 
 .location-name {
-  font-weight: 400;
+  font-weight: 200;
   text-align: center;
   color: #fff;
 }
@@ -123,7 +123,7 @@ ul {
 .temperature-container {
   text-align: center;
   margin: auto;
-  font-size: 50px;
+  font-size: 25px;
 }
 
 .temperature-icon {
@@ -138,7 +138,7 @@ ul {
 }
 
 .weather-type {
-  font-weight: 400;
+  font-weight: 200;
   text-align: center;
   color: #fff;
 }
